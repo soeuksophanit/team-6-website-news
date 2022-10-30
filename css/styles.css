@@ -302,7 +302,7 @@ input {
   gap: 12px;
   background-attachment: fixed;
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("imgs/hero-pic1.jpg");
+    url("../imgs/hero-pic1.jpg");
   /* border-radius: 12px; */
   background-size: cover;
   background-position: bottom;
@@ -714,7 +714,7 @@ footer {
   width: 100%;
   margin: 160px auto 0;
   /* height: 90vh;  */
-  background-image: url(imgs/footer-2.jpg);
+  background-image: url(../imgs/footer-2.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
